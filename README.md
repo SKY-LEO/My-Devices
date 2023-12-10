@@ -14,6 +14,8 @@ https://github.com/SKY-LEO/EasyKeyDublicatorRFID_OLED
 ## Радиоприемник Small RX на Si4732
 ![IMG_20231210_234901](https://github.com/SKY-LEO/My-Devices/assets/69394830/e5bb84a2-23d7-41d0-a7be-dc43d99e7222)
 ![IMG_20231210_234958](https://github.com/SKY-LEO/My-Devices/assets/69394830/c41a2d0c-142d-40e8-91a0-362f606cf137)
+## Прогноз погоды
+![IMG_20231211_000724](https://github.com/SKY-LEO/My-Devices/assets/69394830/41261462-0a98-4778-ba55-57b06dc6e843)
 ## Дозиметр Rad Alert
 ![IMG_20231129_223330](https://github.com/SKY-LEO/My-Devices/assets/69394830/5014274f-a070-48dc-8b9e-3940743887f3)
 ![IMG_20231129_223350](https://github.com/SKY-LEO/My-Devices/assets/69394830/3da69824-e34a-496e-aa46-a52a2c823fa4)
